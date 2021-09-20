@@ -57,7 +57,7 @@
     <a href="https://api.whatsapp.com/send?phone=5541998840475"></a>
   </img>
   <img width="26%" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"> 
-    <a href=""></a>
+    <a href="raphael.projetos@outlook.com.br"></a>
   </img>
 </div>
 
