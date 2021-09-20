@@ -50,15 +50,17 @@
 <h1> Contatos </h1>
 
 <div style="display: inline-block">
-  <img width="15%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
-    <a href="https://www.linkedin.com/in/raphael-lapkoski-mazanek/"></a>
-  </img>
-  <img width="16%" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> 
-    <a href="https://api.whatsapp.com/send?phone=5541998840475"></a>
-  </img>
-  <img width="26%" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"> 
-    <a href="raphael.projetos@outlook.com.br"></a>
-  </img>
+  <a href="https://www.linkedin.com/in/raphael-lapkoski-mazanek/">
+    <img width="15%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+  </a>
+  
+  <a href="https://api.whatsapp.com/send?phone=5541998840475">
+    <img width="16%" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> 
+  </a>
+  
+  <a href="mailto:raphael.projetos@microsoft.com.br">
+    <img width="26%" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"> 
+  </a>
 </div>
 
 <h1> Números </h1>
