@@ -62,9 +62,3 @@
     <img width="26%" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"> 
   </a>
 </div>
-
-<h1> Números </h1>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphalapkoski&layout=compact&theme=dark"/>
-
-
