@@ -3,7 +3,7 @@
 **Um pouco sobre mim**
 
 - 📍 Curitiba - PR
-- 🎉 24 Anos.
+- 🎉 25 Anos.
 - ⚽ Apaixonado pro futebol.
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas pela Universidade Positivo.
 - 👨‍💻 Atualmente Desenvolvedor Full Stack na empresa Tivit.
