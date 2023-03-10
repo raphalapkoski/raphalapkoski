@@ -6,7 +6,7 @@
 - 🎉 25 Anos.
 - ⚽ Apaixonado pro futebol.
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas pela Universidade Positivo.
-- 👨‍💻 Atualmente Desenvolvedor Full Stack na empresa Tivit.
+- 👨‍💻 Desenvolvedor desde 2016, atualmente Full Stack na empresa Tivit.
 
 <h1> Habilidades </h1>
 
