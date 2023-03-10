@@ -41,11 +41,6 @@
   <img width="25%" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />  
 </div>
 
-<h1> Habilidades a desenvolver </h1>
-<div style="display: inline-block">
-  <img width="15%" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />  
-</div>
-
 <h1> Contatos </h1>
 
 <div style="display: inline-block">
